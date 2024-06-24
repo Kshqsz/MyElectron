@@ -1,0 +1,22 @@
+{
+  "name": "myelectron",
+  "version": "1.0.0",
+  "description": "this is MyElectron",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon --exec electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kshqsz/MyElectron.git"
+  },
+  "author": "Kshqsz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kshqsz/MyElectron/issues"
+  },
+  "homepage": "https://github.com/Kshqsz/MyElectron#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
